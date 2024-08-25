@@ -1,0 +1,8 @@
+.box {
+  min-height: 25vh;
+  min-width: 10em;
+  max-width: 27vw;
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+}

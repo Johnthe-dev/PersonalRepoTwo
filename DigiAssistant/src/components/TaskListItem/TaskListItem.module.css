@@ -1,0 +1,117 @@
+.taskListItemRed {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    border: #005A6A solid 4px;
+    align-content: center;
+    justify-content: center;
+    :hover {
+        background-color: #282c34;
+    }
+}
+
+.taskListItemRedActive {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: #005A6A solid 4px;
+}
+
+.taskListItemGreen {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    border: #005A6A solid 4px;
+    align-content: center;
+    justify-content: center;
+    :hover {
+        background-color: #282c34;
+    }
+}
+
+.taskListItemGreenActive {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: #005A6A solid 4px;
+}
+
+.taskListItemPurple {
+     width: 100%;
+     background-color: #B8F4FF;
+     padding: 8px;
+     border: #005A6A solid 4px;
+     align-content: center;
+     justify-content: center;
+    :hover {
+        background-color: #282c34;
+    }
+ }
+
+.taskListItemPurpleActive {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: #005A6A solid 4px;
+    :hover {
+        background-color: #282c34;
+    }
+}
+
+.taskListItemYellow {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    border: #005A6A solid 4px;
+    align-content: center;
+    justify-content: center;
+}
+
+.taskListItemYellowActive {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: #005A6A solid 4px;
+    :hover {
+        background-color: #282c34;
+    }
+}
+
+.taskListItemBlue {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    border: #005A6A solid 4px;
+    color: black;
+    align-content: center;
+    justify-content: center;
+}
+
+.taskListItemBlueActive {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: #005A6A solid 4px;
+    color: black;
+    :hover {
+        background-color: #282c34;
+    }
+}
+
+.caveatTaskListItem {
+             font-family: "Caveat", cursive;
+             font-optical-sizing: auto;
+             font-weight: 400;
+             font-style: normal;
+             color: black;
+         }
