@@ -1,0 +1,115 @@
+.taskListItemRed {
+    width: 100%;
+    background-color: #FFC0C0;
+    padding: 8px;
+    border: #FFC0C0 solid 4px;
+    align-content: center;
+    justify-content: center;
+    :hover {
+        background-color: #CCA2A2;
+    }
+}
+
+.taskListItemRedActive {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: red solid 4px;
+}
+
+.taskListItemGreen {
+    width: 100%;
+    background-color: #CEFFA7;
+    padding: 8px;
+    border: #CEFFA7 solid 4px;
+    align-content: center;
+    justify-content: center;
+    :hover {
+        background-color: #005A6A;
+    }
+}
+
+.taskListItemGreenActive {
+    width: 100%;
+    background-color: #CEFFA7;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: green solid 4px;
+}
+
+.taskListItemPurple {
+    width: 100%;
+    background-color: #B9C6FF;
+    padding: 8px;
+    border: #B9C6FF solid 4px;
+    align-content: center;
+    justify-content: center;
+    :hover {
+        background-color: #97A4DD;
+    }
+}
+
+.taskListItemPurpleActive {
+    width: 100%;
+    background-color: #B9C6FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: purple solid 4px;
+    :hover {
+        background-color: #282c34;
+    }
+}
+
+.taskListItemYellow {
+    width: 100%;
+    background-color: #FFF6A7;
+    padding: 8px;
+    border: #FFF6A7 solid 4px;
+    align-content: center;
+    justify-content: center;
+    :hover {
+        background-color: #DDD495;
+    }
+}
+
+.taskListItemYellowActive {
+    width: 100%;
+    background-color: #FFF6A7;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: yellow solid 4px;
+}
+
+.taskListItemBlue {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: #B8F4FF solid 4px;
+    :hover {
+        background-color: #06D2DD;
+    }
+}
+
+.taskListItemBlueActive {
+    width: 100%;
+    background-color: #B8F4FF;
+    padding: 8px;
+    align-content: center;
+    justify-content: center;
+    border: blue solid 4px;
+}
+
+.caveatTaskListItem {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
